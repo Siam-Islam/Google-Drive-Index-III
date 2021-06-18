@@ -1,5 +1,5 @@
 const authConfig = {
-  "siteName": "Google Drive Index", 
+  "siteName": "DWOAnimes", 
   "siteIcon": "https://raw.githubusercontent.com/sawankumar/Google-Drive-Index-III/master/images/favicon.png",
   "version": "4.28",
   "client_id": "202264815644.apps.googleusercontent.com",
