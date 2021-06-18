@@ -4,7 +4,7 @@ const authConfig = {
   "version": "4.28",
   "client_id": "202264815644.apps.googleusercontent.com",
   "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-  "refresh_token": "", // Authorization token
+  "refresh_token": "1//04vO7pZ018lh6CgYIARAAGAQSNwF-L9IrnakCSh9J5vky-qk9kjGPrb7BHkT6oT9ZPU4NqN2nr6mdYiyq3GQyx5QLIWHCv3hnJDM", // Authorization token
 /**
  * Set up multiple Drives to be displayed; add multiples by format
  * [id]: It can be team folder id, subfolder id, or "root" (representing the root directory of personal disk);
@@ -22,13 +22,7 @@ const authConfig = {
     {
       id: "root", //you can use folderid other than root but then search wont work
       name: "Personal Drive",
-    },
-    {
-        id: "drive_id",
-        name: "Personal Drive II",
-        user: 'username',
-        pass: "password",
-      }  
+    }
   ],
 
   "files_list_page_size": 500,
