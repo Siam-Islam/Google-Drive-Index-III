@@ -6160,12 +6160,14 @@ function file_video(path) {
   const dp = new DPlayer({
     container: document.getElementById("dplayer"),
     loop: false,
-    screenshot: true,
+    screenshot: false,
+    hotkey: true,
     preload: "auto",
     video: {
       quality: [{ url: url, type: "normal" }],
-      autoplay: true,
+      autoplay: false,
       defaultQuality: 0,
+      pic: ,
     },
   });
 }
