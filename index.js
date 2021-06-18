@@ -1,6 +1,6 @@
 const authConfig = {
   "siteName": "Google Drive Index", 
-  "siteIcon": "https://raw.githubusercontent.com/sawankumar/Google-Drive-Index-III/master/images/favicon.png",
+  "siteIcon": "",
   "version": "4.28",
   "client_id": "202264815644.apps.googleusercontent.com",
   "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
@@ -20,8 +20,8 @@ const authConfig = {
  **/
   "roots": [
     {
-      id: "root", //you can use folderid other than root but then search wont work
-      name: "Personal Drive",
+      id: "1sl7ByqYNNYGyvNnN1hrxW_XNDxzrzVm2", //you can use folderid other than root but then search wont work
+      name: "Folder-1",
     }
   ],
 
