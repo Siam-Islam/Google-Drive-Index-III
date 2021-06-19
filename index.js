@@ -20,8 +20,8 @@ const authConfig = {
  **/
   "roots": [
     {
-      id: "1sl7ByqYNNYGyvNnN1hrxW_XNDxzrzVm2", //you can use folderid other than root but then search wont work
-      name: "Folder-1",
+      id: "0AJpHJbc3FVxcUk9PVA", //you can use folderid other than root but then search wont work
+      name: "Root",
     }
   ],
 
