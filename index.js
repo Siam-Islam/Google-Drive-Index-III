@@ -20,8 +20,8 @@ const authConfig = {
  **/
   "roots": [
     {
-      id: "1sl7ByqYNNYGyvNnN1hrxW_XNDxzrzVm2", //you can use folderid other than root but then search wont work
-      name: "Folder-1",
+      id: "0AJpHJbc3FVxcUk9PVA", //you can use folderid other than root but then search wont work
+      name: "Home",
     }
   ],
 
@@ -92,7 +92,7 @@ function html(current_drive_order = 0, model = {}) {
     window.current_drive_order = ${current_drive_order};
     window.UI = JSON.parse('${JSON.stringify(uiConfig)}');
   </script>
-  <script src="https://cdn.jsdelivr.net/gh/Siam-Islam/Google-Drive-Index-III@2.5/app.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/Siam-Islam/Google-Drive-Index-III@3.1/app.js"></script>
 </head>
 <body>
 </body>
